@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 
 with open('input.txt') as f:
-  input = f.read().striplines()
+  input = f.read().splitlines()
 
 
